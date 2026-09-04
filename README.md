@@ -1,5 +1,10 @@
 # STC Protocol: Whitepaper v2.0 (Core Architecture & Tokenomics)
 
+## 🌐 Join the Statice Foundation Community
+Connect directly with the core architects, review real-time infrastructure updates, and secure your place in the inner circle before Presale Stage 2 triggers an automatic 50% price increase.
+
+👉 **[Join Our Official Discord Server](https://discord.gg/NBqQjzC89q)**
+
 ## 1. Executive Summary & Vision
 STC Protocol establishes an independent, deflationary foundational currency—**STC**—designed to power the next-generation economic ecosystem connected directly to global energy infrastructure and core material distribution networks. Backed by proprietary TCP international patents, STC implements an automated smart-contract buyback and burn mechanism. By strictly eliminating speculative profit promises or dividends, the protocol ensures long-term value appreciation driven entirely by mathematical scarcity and expanding infrastructure utility.
 
@@ -53,3 +58,12 @@ To prevent immediate dumping upon listing and ensure healthy, long-term ecosyste
 
 ## 6. Early Supporter Advantage
 > ⚡️ **Investors participating in Stage 1 secure an immediate +237.5% built-in advantage by the start of Stage 4. Maximize your utility and secure the fastest energy settlement rights on Earth at the lowest possible entry point.**
+
+---
+
+### 🛰️ Enter the Deep Grid
+Ready to secure your position? Don't let Stage 1 slip away. Join the global movement and connect with the core team instantly.
+
+👉 **[Enter the Official Discord Server Now](https://discord.gg/NBqQjzC89q)**
+
+
