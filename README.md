@@ -1,69 +1,43 @@
-# STC Protocol: Whitepaper v2.0 (Core Architecture & Tokenomics)
-
-## 🌐 Join the Statice Foundation Community
-Connect directly with the core architects, review real-time infrastructure updates, and secure your place in the inner circle before Presale Stage 2 triggers an automatic 50% price increase.
-
-👉 **[Join Our Official Discord Server](https://discord.gg/NBqQjzC89q)**
-
-## 1. Executive Summary & Vision
-STC Protocol establishes an independent, deflationary foundational currency—**STC**—designed to power the next-generation economic ecosystem connected directly to global energy infrastructure and core material distribution networks. Backed by proprietary TCP international patents, STC implements an automated smart-contract buyback and burn mechanism. By strictly eliminating speculative profit promises or dividends, the protocol ensures long-term value appreciation driven entirely by mathematical scarcity and expanding infrastructure utility.
-
----
-
-## 2. Tokenomics
-*   **Total Supply:** 10,000,000,000 STC *(10 Billion / Fixed Deflationary Supply)*
-*   **Presale Allocation:** 25% *(2,500,000,000 STC)*
-*   **Governance:** Managed neutrally and robustly by the Foundation / Core Architects.
-*   **Target DEX/CEX Listing Price:** `$0.050+`
-
-### 📊 Presale Pricing & Mathematical Model
+STC Protocol: Whitepaper & Ecosystem Vision
+1. Executive Summary & Vision
+STC Protocol establishes an independent, deflationary foundational currency—STC—designed to power the next-generation economic ecosystem connected directly to global energy infrastructure and core material distribution networks. Backed by proprietary TCP international patents, STC implements an automated smart-contract buyback and burn mechanism. By strictly eliminating speculative profit promises or dividends, the protocol ensures long-term value appreciation driven entirely by mathematical scarcity and expanding infrastructure utility.
+2. Empowering End-Users: Utility Directly Tied to Daily Life
+The STC token is not merely an incentive token consumed within a closed crypto community. It serves as the "bloodstream" of global clean energy infrastructure, functioning as a true utility token with real-world demand directly tied to actual power consumption and service utilization.
+* Energy Settlement for Homes, Buildings, and Tenants From the smallest building to commercial tenants, steady settlement demand for STC tokens is generated for sustainable energy supplies. Because daily power consumption directly drives token circulation, a robust ecosystem is naturally formed where the token continues to be utilized as a living infrastructure.
+* True Utility Born from Autonomous Choice Users choose STC of their own accord, driven by its overwhelming convenience and "economic rationality," naturally integrating it into their daily energy settlements.
+* A Bottom-Up Ecosystem The accumulation of organic demand—people using it because they want to use it. This bottom-up circulation brings the market an extremely solid, sustainable liquidity and token value that is immune to transient bubbles or speculation.
+3. Expanding the Global Energy Supply Network
+We are scaling this revolutionary energy economic ecosystem across the globe with high velocity.
+* Collaborating with trusted partners and local hub networks worldwide to rapidly build regional power supply grids.
+* Progressing with clean energy adoptions tailored to local demands, planting flags of "real infrastructure" where STC tokens can be utilized one after another worldwide.
+* Rapidly scaling clean energy supplies down to end-use sites such as homes, buildings, and tenants, establishing STC globally as the "next-generation energy standard" that transcends national borders and currency barriers.
+4. Tokenomics (v2.0)
+* Total Supply: 10,000,000,000 STC (10 Billion / Fixed Deflationary Supply)
+* Presale Allocation: 25% (2,500,000,000 STC)
+* Governance: Managed neutrally and robustly by the Foundation / Core Architects.
+Presale Pricing & Mathematical Model
 To reward early supporters while ensuring a solid capital-raising trajectory toward the hard cap, the presale is structured across 4 distinct pricing tiers:
-
-| Stage | Allocation (%) | Token Amount (STC) | Token Price (USD) | Target Raising (USD) |
-| :--- | :---: | :---: | :---: | :---: |
-| **Stage 1** | 20% | 500,000,000 | `$0.010` | $5,000,000 |
-| **Stage 2** | 25% | 625,000,000 | `$0.015` | $9,375,000 |
-| **Stage 3** | 30% | 750,000,000 | `$0.0225` | $16,875,000 |
-| **Stage 4** | 25% | 625,000,000 | `$0.03375` | $21,093,750 |
-| **Total** | **100%** | **2,500,000,000** | **—** | **~$52,343,750** |
-
----
-
-## 3. Utility & Deflationary Mechanism
-
-### 🌐 The Utility (Real-World Economic Connection)
-*   STC functions as the core settlement and micro-payment currency across global energy infrastructure and essential material distribution networks.
-*   > ⚠️ **Confidentiality Notice:** *The core technical details and physical transformation mechanisms are strictly confidential, protected by international patents and a proprietary "black box" architecture. The market witnesses solely the massive economic momentum generated by this expansive infrastructure.*
-
-### 🔥 The Deflation (Automated Burn Cycle)
-*   As infrastructure operations expand, smart contracts automatically trigger based on network transaction volume.
-*   STC is continuously bought back from the open market and sent to an unrecoverable burn address, steadily shrinking the circulating supply.
-
----
-
-## 4. Market Protection & Vesting
+Stage	Allocation (%)	Token Amount (STC)	Token Price (USD)	Target Raising (USD)
+Stage 1	20%	500,000,000	$0.010	$5,000,000
+Stage 2	25%	625,000,000	$0.015	$9,375,000
+Stage 3	30%	750,000,000	$0.0225	$16,875,000
+Stage 4	25%	625,000,000	$0.03375	$21,093,750
+Total	100%	2,500,000,000	—	~$52,343,750
+* Target DEX/CEX Listing Price: $0.050+
+5. Utility & Deflationary Mechanism
+* The Utility (Real-World Economic Connection)
+    * STC functions as the core settlement and micro-payment currency across global energy infrastructure and essential material distribution networks.
+    * Note: The core technical details and physical transformation mechanisms are strictly confidential, protected by international patents and a proprietary "black box" architecture. The market witnesses solely the massive economic momentum generated by this expansive infrastructure.
+* The Deflation (Automated Burn Cycle)
+    * As infrastructure operations expand, smart contracts automatically trigger based on network transaction volume.
+    * STC is continuously bought back from the open market and sent to an unrecoverable burn address, steadily shrinking the circulating supply.
+6. Market Protection & Vesting
 To prevent immediate dumping upon listing and ensure healthy, long-term ecosystem growth, all presale tokens are subject to a strict smart-contract vesting schedule:
-
-1.  **🚀 TGE (Listing) Initial Release:** `10%` unlocked immediately at token generation.
-2.  **⏳ Cliff Period:** A `1-month` lockup following the listing, completely preventing early sell pressure.
-3.  **📈 Linear Vesting:** Post-cliff, the remaining tokens are linearly unlocked and claimable monthly over `5 months`.
-
----
-
-## 5. Legal Disclaimer
-*   The STC token is a pure utility token designed exclusively for use within the physical infrastructure and decentralized ecosystem.
-*   The operators, developers, and the Foundation do not promise or guarantee any corporate equity, shares, profit distributions, or financial dividends. Token value relies entirely on market supply, demand, and network utility.
-
----
-
-## 6. Early Supporter Advantage
-> ⚡️ **Investors participating in Stage 1 secure an immediate +237.5% built-in advantage by the start of Stage 4. Maximize your utility and secure the fastest energy settlement rights on Earth at the lowest possible entry point.**
-
----
-
-### 🛰️ Enter the Deep Grid
-Ready to secure your position? Don't let Stage 1 slip away. Join the global movement and connect with the core team instantly.
-
-👉 **[Enter the Official Discord Server Now](https://discord.gg/NBqQjzC89q)**
-
-
+1. TGE (Listing) Initial Release: 10% unlocked immediately at token generation.
+2. Cliff Period: A 1-month lockup following the listing, completely preventing early sell pressure.
+3. Linear Vesting: Post-cliff, the remaining tokens are linearly unlocked and claimable monthly over 5 months.
+7. Legal Disclaimer
+* The STC token is a pure utility token designed exclusively for use within the physical infrastructure and decentralized ecosystem.
+* The operators, developers, and the Foundation do not promise or guarantee any corporate equity, shares, profit distributions, or financial dividends. Token value relies entirely on market supply, demand, and network utility.
+8. Early Supporter Advantage
+* Investors participating in Stage 1 secure an immediate +237.5% built-in advantage by the start of Stage 4. Maximize your utility and secure the fastest energy settlement rights on Earth at the lowest possible entry point.
