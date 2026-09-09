@@ -1,6 +1,6 @@
 STC Protocol: Whitepaper & Ecosystem Vision
 1. Executive Summary & Vision
-STC Protocol establishes an independent, deflationary foundational currency—STC—designed to power the next-generation economic ecosystem connected directly to global energy infrastructure and core material distribution networks. Backed by proprietary TCP international patents, STC implements an automated smart-contract buyback and burn mechanism. By strictly eliminating speculative profit promises or dividends, the protocol ensures long-term value appreciation driven entirely by mathematical scarcity and expanding infrastructure utility.
+STC Protocol establishes an independent, deflationary foundational currency—STC—designed to power the next-generation economic ecosystem connected directly to global energy infrastructure and core material distribution networks. Backed by proprietary PCT international patents, STC implements an automated smart-contract buyback and burn mechanism. By strictly eliminating speculative profit promises or dividends, the protocol ensures long-term value appreciation driven entirely by mathematical scarcity and expanding infrastructure utility.
 2. Empowering End-Users: Utility Directly Tied to Daily Life
 The STC token is not merely an incentive token consumed within a closed crypto community. It serves as the "bloodstream" of global clean energy infrastructure, functioning as a true utility token with real-world demand directly tied to actual power consumption and service utilization.
 * Energy Settlement for Homes, Buildings, and Tenants From the smallest building to commercial tenants, steady settlement demand for STC tokens is generated for sustainable energy supplies. Because daily power consumption directly drives token circulation, a robust ecosystem is naturally formed where the token continues to be utilized as a living infrastructure.
@@ -41,3 +41,4 @@ To prevent immediate dumping upon listing and ensure healthy, long-term ecosyste
 * The operators, developers, and the Foundation do not promise or guarantee any corporate equity, shares, profit distributions, or financial dividends. Token value relies entirely on market supply, demand, and network utility.
 8. Early Supporter Advantage
 * Investors participating in Stage 1 secure an immediate +237.5% built-in advantage by the start of Stage 4. Maximize your utility and secure the fastest energy settlement rights on Earth at the lowest possible entry point.
+  
